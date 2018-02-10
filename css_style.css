@@ -1,0 +1,43 @@
+h1 {
+  color: rgb(161, 0, 255);
+}
+.heading {
+  text-align: center;
+  width: 100%;
+}
+
+.links {
+  font-size: 25px;
+  margin: 0px;
+  padding: 0px;
+  color: rgb(251, 249, 252);
+  background-color: rgb(10, 10, 10);
+  width: 30%;
+  line-height: 1em;
+  float:left;
+  height:800px;
+  text-decoration:none;
+}
+a{
+  text-decoration:none;
+}
+
+a:visited{
+  color: white;
+}
+a:hover{
+  color: rgb(150, 21, 242);
+}
+a:link{
+  color: white;
+}
+.photo{
+  width:70%;
+  float:right;
+}
+.wide{
+  width:100%;
+}
+h2{
+  font-size: 20px;
+}
